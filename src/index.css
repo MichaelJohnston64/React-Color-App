@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #fafafa;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: block;
+  padding: 0;
+  padding: 1em;
+  background-color: #1a1c21;
+}
+
+.navbar>li {
+  display: inline-block;
+  margin-right: 1em;
+    padding: 2px;
+    border-bottom: 1px solid white;
+}
+
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+  width: 500px;
+  background-color: #fff;
+  border: 1px solid #eee;
+  height: 100%;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+.colordiv{
+    color: white;
+    text-shadow: 1px 1px black;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+    float: inherit;
+    border: 1px solid black;
+}
+
+#one{
+    text-align: left;
+    background-color: white;
+    border: 1px solid black;
+      margin-left: 100px;
+    margin-right: 100px;
+}
+
+#two{
+    text-align: left;
+    background-color: white;
+    border: 1px solid black;
+     margin-left: 100px;
+    margin-right: 100px;
+}
+
+#my-section{
+    margin-left: 170px;
+    margin-right: 170px;
+}
